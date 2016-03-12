@@ -1,3 +1,3 @@
-# UCLA_CS132_Compilers
+# UCLA CS132 Compilers
 A MiniJava Compiler Implementation
 
